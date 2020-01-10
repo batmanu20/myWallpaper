@@ -18,5 +18,34 @@
     <ClCompile Include="cloudWallpaper.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SeaVertices.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="libraries\includes\stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="libraries\includes\myincludes\camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="libraries\includes\myincludes\mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="libraries\includes\myincludes\model.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="libraries\includes\myincludes\shader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="libraries\includes\myincludes\texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="libraries\includes\myincludes\SeaVertices.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
